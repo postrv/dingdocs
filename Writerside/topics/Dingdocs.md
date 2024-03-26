@@ -4,11 +4,11 @@
 
 ### The most cracked, banger of an AI photo-editor/meme-creator on this side of the local supercluster!
 
-#### Dingboard presents: **Dingdocs!** 
+## Dingboard presents: **Dingdocs!** 
 
-#### First-rate documentation the likes of which Ad*be could only dream of!
+### First-rate documentation the likes of which Ad*be could only dream of!
 
-##### Which way modern man?
+## Which way modern man?
 
 ![Which way meme](../images/whichwaymeme.png)
 
