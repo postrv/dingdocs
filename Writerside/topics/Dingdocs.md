@@ -29,7 +29,7 @@ To add your first image, simply click the "Upload Image" button in the top right
 
 ![Upload Image Button](../images/upload-image.png)
 
-To remove an image, click on the image, and use the trash can![ Icon](../images/trashcan.svg) on the right hand side of the toolbar that pops up.
+To remove an image, click on the image, and use the trash can on the right hand side of the toolbar that pops up.
 
 
 ## Adding Text
